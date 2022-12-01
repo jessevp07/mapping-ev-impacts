@@ -1,0 +1,5 @@
+column_name,description
+county_index,simple index used to join files
+county_fips,county FIPS code
+FC_BEV,fuel consumption of battery electric vehicle in gallons of gasoline equivalent per 100 miles
+FC_ICEV,fuel consumption of internal combustion engine vehicle in gallons of gasoline equivalent per 100 miles

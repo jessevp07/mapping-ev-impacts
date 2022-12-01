@@ -1,0 +1,18 @@
+name: ev_impacts_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - openpyxl=3.0.10
+  - xlwings=0.27.14
+  - seaborn=0.12.0
+  - jupyterlab=3.4.7
+  - matplotlib=3.5.3
+  - plotly=5.10.0
+  - pandas=1.4.4
+  - geopandas=0.11.1
+  - scipy=1.9.1
+  - python-kaleido=0.2.1
+  - numpy=1.23.3
+  - xlrd=2.0.1
+prefix: C:\Anaconda3\envs\ev_impacts_env

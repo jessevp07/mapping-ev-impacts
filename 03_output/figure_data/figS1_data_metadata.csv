@@ -1,0 +1,11 @@
+column_name,description
+_index,simple index used to join files
+_fips,county/tract FIPS code
+geogroup,one of six geographic groups
+density_group,"density group - urban, suburban, rural based on housing unit density"
+SUV,SUV - fractional prevalence of sport utility vehicles (SUV)
+Sedan,sedan - fractional prevalence of sedans
+Truck,Truck - fractional prevalence of pickup trucks
+state_name,state name
+Region_Name,census region name
+Division_Name,census division name

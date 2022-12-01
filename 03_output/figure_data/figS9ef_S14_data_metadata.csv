@@ -1,0 +1,8 @@
+column_name,description
+county_index,simple index used to join files
+county_fips,county FIPS code
+state,state abbreviation
+BA,balancing area
+year,year of projection
+scenario,scenario from scenario analysis
+ef_kgCO2epGGE_by,GHG emission factor in kilograms of carbon dioxide equivalent per gallon of gasoline equivalent (by = by year)

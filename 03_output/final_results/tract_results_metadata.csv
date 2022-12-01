@@ -1,0 +1,21 @@
+column_name_portion,description
+_index,simple index used to join files
+_fips,county/tract FIPS code
+mult_hh_study,portion of households in the census tract out of all households included in the study (column sum = 1)
+lce_MTCO2EpHHy,life cycle GHG emissions in metric tons of CO2e per household-year (MTCO2EpHHy)
+lces_MTCO2EpHHy,"life cycle GHG emissions savings (i.e., difference b/w ICEV and BEV) in metric tons of CO2e per household-year (MTCO2EpHHy)"
+cat_lces_pHHy,categorization of life cycle GHG emissions savings (with units per household-year)
+lfc_USDpHHy,lifetime fuel costs in U.S. dollars per household-year (USDpHHy)
+lfcs_USDpHHy,"lifetime fuel cost savings (i.e., difference b/w ICEV and BEV) in U.S. dollars per household-year (USDpHHy)"
+cat_lfcs_pHHy,categorization of lifetime fuel cost savings (with units per household-year)
+TEB,transportation energy burden
+burden_svgs,"transportation energy burden savings (i.e., difference b/w ICEV and BEV)"
+cat_burden_svgs,categorization of transportation energy burden savings
+biv1_cat_pHHy,bivariate combination 1: life cycle GHG emissions and lifetime fuel cost savings (with units per household-year)
+biv2_cat_pHHy,bivariate combination 2: life cycle GHG emissions and energy burden savings (with units per household-year)
+ICEV,internal combustion engine vehicle
+BEV,battery electric vehicle
+base_res,baseline-residential charging scenario
+base_pub,baseline-public charging scenario
+lwr,worst-case for BEV scenario
+upr,best-case for BEV scenario

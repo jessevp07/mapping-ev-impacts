@@ -1,0 +1,5 @@
+column_name,description
+source,source node index
+target,target node index
+value,"value of link (i.e., percent of households)"
+color,color of link

@@ -1,0 +1,7 @@
+column_name,description
+state,state abbreviation
+egrid_subregion,eGRID Subregion
+year,year of projection
+variable,"variable - grid emissions factor in kilograms of carbon dioxide equivalents per kilowatt-hour; [MC, MC35, HIRE - see scenario column]"
+value,variable value - see variable name for units
+scenario,scenario - NREL Cambium Scenario

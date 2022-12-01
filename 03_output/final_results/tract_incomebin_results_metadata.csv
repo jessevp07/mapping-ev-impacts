@@ -1,0 +1,11 @@
+column_name_portion,description
+_index,simple index used to join files
+_fips,county/tract FIPS code
+ami_bin,"area median income (AMI) bin (0 = 0-30% AMI, 1 = 30-60% AMI, 2 = 60-80% AMI, 3 = 80-100% AMI, 4 = 100-150% AMI, 5 = 150-200% AMI, 6 = 200%+ AMI)"
+TEB,transportation energy burden
+ICEV,internal combustion engine vehicle
+BEV,battery electric vehicle
+base_res,baseline-residential charging scenario
+base_pub,baseline-public charging scenario
+lwr,worst-case for BEV scenario
+upr,best-case for BEV scenario

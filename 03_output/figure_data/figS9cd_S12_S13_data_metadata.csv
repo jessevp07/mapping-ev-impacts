@@ -1,0 +1,7 @@
+column_name,description
+county_index,simple index used to join files
+county_fips,county FIPS code
+powertrain,powertrain - BEV = battery electric vehicle; ICEV = internal combustion engine vehicle
+year,year of projection
+scenario,scenario from scenario analysis
+c_USDpGGE_by,fuel cost in U.S. dollars per gallon of gasoline equivalent (by = by year)

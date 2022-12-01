@@ -1,0 +1,109 @@
+VEHCLASS,variable,POWERTRAIN,scenario,value
+Sedan,lce_MTCO2EpHHy_ICEV_base_res,ICEV,Baseline-Residential Charging,5.336396821568111
+SUV,lce_MTCO2EpHHy_ICEV_base_res,ICEV,Baseline-Residential Charging,6.151799132187068
+Truck,lce_MTCO2EpHHy_ICEV_base_res,ICEV,Baseline-Residential Charging,7.755760053654007
+Sedan,lce_MTCO2EpHHy_BEV_base_res,BEV,Baseline-Residential Charging,2.2962490857232503
+SUV,lce_MTCO2EpHHy_BEV_base_res,BEV,Baseline-Residential Charging,2.899433706830791
+Truck,lce_MTCO2EpHHy_BEV_base_res,BEV,Baseline-Residential Charging,3.517774501547646
+Sedan,lfc_USDpHHy_ICEV_base_res,ICEV,Baseline-Residential Charging,1082.2303851224217
+SUV,lfc_USDpHHy_ICEV_base_res,ICEV,Baseline-Residential Charging,1240.0072613787338
+Truck,lfc_USDpHHy_ICEV_base_res,ICEV,Baseline-Residential Charging,1569.5532545009821
+Sedan,lfc_USDpHHy_BEV_base_res,BEV,Baseline-Residential Charging,648.1337025714772
+SUV,lfc_USDpHHy_BEV_base_res,BEV,Baseline-Residential Charging,788.3108550194831
+Truck,lfc_USDpHHy_BEV_base_res,BEV,Baseline-Residential Charging,923.3934167081119
+Sedan,lce_MTCO2EpHHy_ICEV_base_pub,ICEV,Baseline-Public Charging,5.336396821568111
+SUV,lce_MTCO2EpHHy_ICEV_base_pub,ICEV,Baseline-Public Charging,6.151799132187068
+Truck,lce_MTCO2EpHHy_ICEV_base_pub,ICEV,Baseline-Public Charging,7.755760053654007
+Sedan,lce_MTCO2EpHHy_BEV_base_pub,BEV,Baseline-Public Charging,2.2962490857232503
+SUV,lce_MTCO2EpHHy_BEV_base_pub,BEV,Baseline-Public Charging,2.899433706830791
+Truck,lce_MTCO2EpHHy_BEV_base_pub,BEV,Baseline-Public Charging,3.517774501547646
+Sedan,lfc_USDpHHy_ICEV_base_pub,ICEV,Baseline-Public Charging,1082.2303851224217
+SUV,lfc_USDpHHy_ICEV_base_pub,ICEV,Baseline-Public Charging,1240.0072613787338
+Truck,lfc_USDpHHy_ICEV_base_pub,ICEV,Baseline-Public Charging,1569.5532545009821
+Sedan,lfc_USDpHHy_BEV_base_pub,BEV,Baseline-Public Charging,820.4307364822915
+SUV,lfc_USDpHHy_BEV_base_pub,BEV,Baseline-Public Charging,1074.6973432427612
+Truck,lfc_USDpHHy_BEV_base_pub,BEV,Baseline-Public Charging,1304.0589979904476
+Sedan,lce_MTCO2EpHHy_ICEV_lwr,ICEV,Worst Case for BEV,4.847366136126769
+SUV,lce_MTCO2EpHHy_ICEV_lwr,ICEV,Worst Case for BEV,5.586221910624266
+Truck,lce_MTCO2EpHHy_ICEV_lwr,ICEV,Worst Case for BEV,7.039667737746774
+Sedan,lce_MTCO2EpHHy_BEV_lwr,BEV,Worst Case for BEV,2.8608287832176966
+SUV,lce_MTCO2EpHHy_BEV_lwr,BEV,Worst Case for BEV,3.624842857579378
+Truck,lce_MTCO2EpHHy_BEV_lwr,BEV,Worst Case for BEV,4.400053694759189
+Sedan,lfc_USDpHHy_ICEV_lwr,ICEV,Worst Case for BEV,669.8898692075835
+SUV,lfc_USDpHHy_ICEV_lwr,ICEV,Worst Case for BEV,757.0501732500177
+Truck,lfc_USDpHHy_ICEV_lwr,ICEV,Worst Case for BEV,962.4848352793629
+Sedan,lfc_USDpHHy_BEV_lwr,BEV,Worst Case for BEV,1044.43775696846
+SUV,lfc_USDpHHy_BEV_lwr,BEV,Worst Case for BEV,1359.5134177324874
+Truck,lfc_USDpHHy_BEV_lwr,BEV,Worst Case for BEV,1664.6679385711557
+Sedan,lce_MTCO2EpHHy_ICEV_upr,ICEV,Best Case for BEV,5.825427507009454
+SUV,lce_MTCO2EpHHy_ICEV_upr,ICEV,Best Case for BEV,6.71737635374987
+Truck,lce_MTCO2EpHHy_ICEV_upr,ICEV,Best Case for BEV,8.471852369561242
+Sedan,lce_MTCO2EpHHy_BEV_upr,BEV,Best Case for BEV,1.4917334932642519
+SUV,lce_MTCO2EpHHy_BEV_upr,BEV,Best Case for BEV,1.8292125268366437
+Truck,lce_MTCO2EpHHy_BEV_upr,BEV,Best Case for BEV,2.2241620993520637
+Sedan,lfc_USDpHHy_ICEV_upr,ICEV,Best Case for BEV,1621.9001710195419
+SUV,lfc_USDpHHy_ICEV_upr,ICEV,Best Case for BEV,1861.1591569190937
+Truck,lfc_USDpHHy_ICEV_upr,ICEV,Best Case for BEV,2351.758443889429
+Sedan,lfc_USDpHHy_BEV_upr,BEV,Best Case for BEV,348.31843896767
+SUV,lfc_USDpHHy_BEV_upr,BEV,Best Case for BEV,456.4129768683085
+Truck,lfc_USDpHHy_BEV_upr,BEV,Best Case for BEV,551.5084443933806
+Sedan,lfcs_USDpHHy_base_res,,Baseline-Residential Charging,434.0966825509446
+SUV,lfcs_USDpHHy_base_res,,Baseline-Residential Charging,451.69640635925066
+Truck,lfcs_USDpHHy_base_res,,Baseline-Residential Charging,646.1598377928702
+Sedan,burden_svgs_base_res,,Baseline-Residential Charging,0.9167041115592977
+SUV,burden_svgs_base_res,,Baseline-Residential Charging,0.9550322371604066
+Truck,burden_svgs_base_res,,Baseline-Residential Charging,1.3666759022335793
+Sedan,TEB_newICEV_base_res,ICEV,Baseline-Residential Charging,2.3114136611709437
+SUV,TEB_newICEV_base_res,ICEV,Baseline-Residential Charging,2.6528617428097103
+Truck,TEB_newICEV_base_res,ICEV,Baseline-Residential Charging,3.3567411630319772
+Sedan,TEB_newBEV_base_res,BEV,Baseline-Residential Charging,1.3947095496116462
+SUV,TEB_newBEV_base_res,BEV,Baseline-Residential Charging,1.697829505649304
+Truck,TEB_newBEV_base_res,BEV,Baseline-Residential Charging,1.9900652607983977
+Sedan,lces_MTCO2EpHHy_base_res,,Baseline-Residential Charging,3.040147735844861
+SUV,lces_MTCO2EpHHy_base_res,,Baseline-Residential Charging,3.2523654253562766
+Truck,lces_MTCO2EpHHy_base_res,,Baseline-Residential Charging,4.237985552106362
+Sedan,lfcs_USDpHHy_base_pub,,Baseline-Public Charging,261.79964864013033
+SUV,lfcs_USDpHHy_base_pub,,Baseline-Public Charging,165.3099181359726
+Truck,lfcs_USDpHHy_base_pub,,Baseline-Public Charging,265.49425651053457
+Sedan,burden_svgs_base_pub,,Baseline-Public Charging,0.5412572655388775
+SUV,burden_svgs_base_pub,,Baseline-Public Charging,0.3311592799858808
+Truck,burden_svgs_base_pub,,Baseline-Public Charging,0.5372523469810887
+Sedan,TEB_newICEV_base_pub,ICEV,Baseline-Public Charging,2.3114136611709437
+SUV,TEB_newICEV_base_pub,ICEV,Baseline-Public Charging,2.6528617428097103
+Truck,TEB_newICEV_base_pub,ICEV,Baseline-Public Charging,3.3567411630319772
+Sedan,TEB_newBEV_base_pub,BEV,Baseline-Public Charging,1.770156395632066
+SUV,TEB_newBEV_base_pub,BEV,Baseline-Public Charging,2.3217024628238296
+Truck,TEB_newBEV_base_pub,BEV,Baseline-Public Charging,2.8194888160508884
+Sedan,lces_MTCO2EpHHy_base_pub,,Baseline-Public Charging,3.040147735844861
+SUV,lces_MTCO2EpHHy_base_pub,,Baseline-Public Charging,3.2523654253562766
+Truck,lces_MTCO2EpHHy_base_pub,,Baseline-Public Charging,4.237985552106362
+Sedan,lfcs_USDpHHy_lwr,,Worst Case for BEV,-374.5478877608764
+SUV,lfcs_USDpHHy_lwr,,Worst Case for BEV,-602.4632444824697
+Truck,lfcs_USDpHHy_lwr,,Worst Case for BEV,-702.1831032917928
+Sedan,burden_svgs_lwr,,Worst Case for BEV,-0.8246067645085764
+SUV,burden_svgs_lwr,,Worst Case for BEV,-1.3198981023423442
+Truck,burden_svgs_lwr,,Worst Case for BEV,-1.5438861329445843
+Sedan,TEB_newICEV_lwr,ICEV,Worst Case for BEV,1.430742119656224
+SUV,TEB_newICEV_lwr,ICEV,Worst Case for BEV,1.6196271623195178
+Truck,TEB_newICEV_lwr,ICEV,Worst Case for BEV,2.0584280629608083
+Sedan,TEB_newBEV_lwr,BEV,Worst Case for BEV,2.2553488841648006
+SUV,TEB_newBEV_lwr,BEV,Worst Case for BEV,2.939525264661862
+Truck,TEB_newBEV_lwr,BEV,Worst Case for BEV,3.602314195905393
+Sedan,lces_MTCO2EpHHy_lwr,,Worst Case for BEV,1.986537352909072
+SUV,lces_MTCO2EpHHy_lwr,,Worst Case for BEV,1.9613790530448878
+Truck,lces_MTCO2EpHHy_lwr,,Worst Case for BEV,2.6396140429875845
+Sedan,lfcs_USDpHHy_upr,,Best Case for BEV,1273.581732051872
+SUV,lfcs_USDpHHy_upr,,Best Case for BEV,1404.7461800507854
+Truck,lfcs_USDpHHy_upr,,Best Case for BEV,1800.2499994960488
+Sedan,burden_svgs_upr,,Best Case for BEV,2.716648676876188
+SUV,burden_svgs_upr,,Best Case for BEV,3.0010562595344497
+Truck,burden_svgs_upr,,Best Case for BEV,3.8435267078094113
+Sedan,TEB_newICEV_upr,ICEV,Best Case for BEV,3.46403341089521
+SUV,TEB_newICEV_upr,ICEV,Best Case for BEV,3.9817492029690746
+Truck,TEB_newICEV_upr,ICEV,Best Case for BEV,5.029612312594988
+Sedan,TEB_newBEV_upr,BEV,Best Case for BEV,0.747384734019022
+SUV,TEB_newBEV_upr,BEV,Best Case for BEV,0.9806929434346252
+Truck,TEB_newBEV_upr,BEV,Best Case for BEV,1.1860856047855777
+Sedan,lces_MTCO2EpHHy_upr,,Best Case for BEV,4.333694013745203
+SUV,lces_MTCO2EpHHy_upr,,Best Case for BEV,4.888163826913226
+Truck,lces_MTCO2EpHHy_upr,,Best Case for BEV,6.247690270209178

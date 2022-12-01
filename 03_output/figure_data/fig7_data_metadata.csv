@@ -1,0 +1,6 @@
+column_name,description
+vehclass,vehicle class - sedan; SUV = sport utility vehicle; truck = pickup truck
+variable,"variable name - [base_res, base_pub, lwr, upr - see scenario column]; [BEV, ICEV - see powertrain column]; burden_svgs = transportation energy burden savings; lce = life cycle emissions; lces = life cycle emission savings; lfc = lifetime fuel costs; lfc = lifetime fuel cost savings; MTCO2EpHHy = metric tons of carbon dioxide equivalents per household-year; TEB = transportation energy burden; USDpHHy = U.S. dollars per household-year"
+powertrain,powertrain - BEV = battery electric vehicle; ICEV = internal combustion engine vehicle
+scenario,scenario from scenario analysis
+value,variable value (see variable for units)

@@ -1,0 +1,2 @@
+"Mapping electric vehicle impacts: greenhouse gas emissions, fuel costs, and energy justice in the United States" by Jesse Vega-Perkins, Joshua P. Newell, and Gregory Keoleian
+Repository for supporting data, code, and outputs used in the analysis. See OSF Wiki for full instructions.

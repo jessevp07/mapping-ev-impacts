@@ -1,0 +1,3 @@
+[submodule "02_analysis/lcoc-ldevs"]
+	path = 02_analysis/lcoc-ldevs
+	url = https://github.com/jessevp07/lcoc-ldevs.git

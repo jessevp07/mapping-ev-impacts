@@ -1,0 +1,9 @@
+column_name,description
+county_index,simple index used to join files
+county_fips,county FIPS code
+county_name,county name
+state,state abbreviation
+lcoc_USD_base_res,levelized cost of charging (U.S. dollars) for the baseline-residential charging scenario
+lcoc_USD_base_pub,levelized cost of charging (U.S. dollars) for the baseline-public charging scenario
+lcoc_USD_lwr,levelized cost of charging (U.S. dollars) for the lower bound (worst case) scenario
+lcoc_USD_upr,levelized cost of charging (U.S. dollars) for the upper bound (best case) scenario

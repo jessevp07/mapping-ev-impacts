@@ -1,0 +1,6 @@
+column_name,description
+index,node index
+label,node label
+color,node color
+x,horizontal position of node in plot
+y,vertical position of node in plot

@@ -1,0 +1,7 @@
+column_name,description
+vehclass,"vehicle class - sedan, SUV = sport utility vehicle, truck = pickup truck"
+scenario_bnd,"scenario_bnd - sensitivity scenario and bound (lwr = -10%, upr = +10%)"
+scenario_name,name of sensitivity scenario
+bnd_name,name of bound
+pct_chg_lfcs,percent change in national average lifetime fuel cost savings
+pct_chg_lces,percent change in national average life cycle GHG emission savings
